@@ -1,4 +1,0 @@
-algo,threshold,success_rate,mean_steps_to_threshold,std_steps_to_threshold
-ppo,200.0,0.4,195000.0,75000.0
-a2c,200.0,0.0,,
-reinforce,200.0,0.0,,
