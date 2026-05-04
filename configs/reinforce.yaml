@@ -1,0 +1,4 @@
+algo: reinforce
+learning_rate: 0.001
+hidden_dim: 128
+gamma: 0.99

@@ -1,0 +1,15 @@
+experiment:
+  env_id: LunarLander-v2
+  total_steps: 300000
+  eval_freq: 10000
+  n_eval_episodes: 10
+  seeds: [0, 1, 2, 3, 4]
+
+logging:
+  raw_logs_dir: results/raw_logs
+  models_dir: results/models
+  figures_dir: results/figures
+  tables_dir: results/tables
+
+metric:
+  threshold: 200
