@@ -1,0 +1,4 @@
+variant,threshold,success_rate,mean_steps_to_threshold,std_steps_to_threshold
+lr_1em3,200.0,0.4,150000.0,10000.0
+lr_3em4,200.0,0.2,120000.0,0.0
+lr_1em4,200.0,0.0,,

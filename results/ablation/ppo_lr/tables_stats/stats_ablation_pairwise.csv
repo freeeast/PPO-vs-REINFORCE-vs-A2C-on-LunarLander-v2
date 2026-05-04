@@ -1,0 +1,4 @@
+variant_a,variant_b,mean_diff_a_minus_b,ci_low,ci_high,interpretation
+lr_1em3,lr_1em4,114.32618052,13.239056740000002,212.21090358799992,A>B (95%)
+lr_1em3,lr_3em4,85.8169685,-28.449257581999905,190.991671933,no clear separation (95%)
+lr_1em4,lr_3em4,-28.509212019999993,-139.14074943999998,75.08352318,no clear separation (95%)

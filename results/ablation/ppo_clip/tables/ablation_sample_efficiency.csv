@@ -1,0 +1,4 @@
+variant,threshold,success_rate,mean_steps_to_threshold,std_steps_to_threshold
+clip_0p2,200.0,0.2,120000.0,0.0
+clip_0p3,200.0,0.2,130000.0,0.0
+clip_0p1,200.0,0.0,,

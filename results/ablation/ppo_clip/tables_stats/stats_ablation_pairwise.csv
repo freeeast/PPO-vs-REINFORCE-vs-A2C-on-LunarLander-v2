@@ -1,0 +1,4 @@
+variant_a,variant_b,mean_diff_a_minus_b,ci_low,ci_high,interpretation
+clip_0p1,clip_0p2,-0.13609128000000226,-108.27391973999998,104.63782286099992,no clear separation (95%)
+clip_0p1,clip_0p3,12.311446199999988,-100.926898907,130.5793263015,no clear separation (95%)
+clip_0p2,clip_0p3,12.44753747999999,-109.8888614625,142.11829709999995,no clear separation (95%)
