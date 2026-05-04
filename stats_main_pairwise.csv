@@ -1,0 +1,4 @@
+algo_a,algo_b,mean_diff_a_minus_b,ci_low,ci_high,interpretation
+ppo,a2c,-0.36714545999998904,-120.76548884000002,121.51952016,no clear separation (95%)
+ppo,reinforce,56.444530054158605,-70.00843078649264,182.95505992756046,no clear separation (95%)
+a2c,reinforce,56.811675514158594,-51.122627622402646,164.31579662541364,no clear separation (95%)
